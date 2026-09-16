@@ -1,0 +1,14 @@
+{
+  "name": "caredesk-capstone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Doctor appointment and patient management capstone project",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
